@@ -7,8 +7,7 @@ HEO-Essays文件夹内包含一些本人调研高轨接收机时查阅的文献�
 而《高轨卫星信号可用性分析》文章以AO-40高轨接收机为例分析了全弧段多普勒和多普勒变化率的最大值和平均值，具有一定的参考价值。
 我们在进行调研的时候完全可以参考这两篇文章的形式。
 
-
-
+\n
 3. Improvement of global navigation satellite system signal acquisition using different grade inertial measurement units for high dynamic applications 2012
 4. Performance Analysis of Global Navigation Satellite System Signal Acquisition Aided by different grade Inertial Navigation System under Highly Dynamic Conditions 2017
 
