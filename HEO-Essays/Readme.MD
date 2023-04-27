@@ -8,6 +8,7 @@ HEO-Essays文件夹内包含一些本人调研高轨接收机时查阅的文献�
 我们在进行调研的时候完全可以参考这两篇文章的形式。
 
 
+
 3. Improvement of global navigation satellite system signal acquisition using different grade inertial measurement units for high dynamic applications 2012
 4. Performance Analysis of Global Navigation Satellite System Signal Acquisition Aided by different grade Inertial Navigation System under Highly Dynamic Conditions 2017
 
