@@ -12,3 +12,5 @@
 ![技术路线图](https://github.com/kongtian-SiBu/ZCJ_proposal_report/blob/main/%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF%E5%9B%BE.jpg)
 
 HEO-Essays中包含本人在进行课题调研时查阅的部分文献，详情请查看HEO-Essays中的Readme文件
+
+### 一个需要特别注意的点
