@@ -10,3 +10,5 @@ HEO-Essays文件夹内包含一些本人调研高轨接收机时查阅的文献�
 
 3. Improvement of global navigation satellite system signal acquisition using different grade inertial measurement units for high dynamic applications 2012
 4. Performance Analysis of Global Navigation Satellite System Signal Acquisition Aided by different grade Inertial Navigation System under Highly Dynamic Conditions 2017
+
+关于INS辅助GNSS信号捕获这一具体的课题，相关论文数量不多，而且在研究思路和研究方法上几乎也是毫无区别。此处列出两篇具有一定代表性的论文，阅读难度较小，对于初学者比如我来说很有参考价值。
