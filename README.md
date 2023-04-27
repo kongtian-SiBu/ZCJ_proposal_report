@@ -7,3 +7,5 @@
 
 主要研究内容1：高轨接收机时空误差建模和信号搜索空间的确定；
 主要研究内容2：惯导辅助HEO接收机信号捕获策略和捕获算法的研究。
+
+![技术路线图](https://github.com/kongtian-SiBu/ZCJ_proposal_report/blob/main/%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF%E5%9B%BE.jpg)
